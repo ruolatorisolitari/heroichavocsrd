@@ -14,4 +14,4 @@ Heroic Havoc è un progetto di Ruolatori Solitari, il portale dei giocatori di r
 
 [GitHub](https://github.com/ruolatorisolitari/heroichavocsrd/)
 [PDF](https://ruolatori.itch.io/heroichavoc)
-[Web SRD](/heroichavoc.md)
+[Web SRD](/srd.md)

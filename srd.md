@@ -1,10 +1,10 @@
 # Heroic Havoc
 
-**Gioco d’avventura fantasy**
+## **Gioco d’avventura fantasy**
 
 versione 1.6
 
-2024-09-30
+2024-10-03
 
 # Introduzione
 
@@ -97,7 +97,7 @@ Questi punteggi iniziali sono cruciali. Sebbene possano fluttuare, di solito aum
 * **TENACIA** riflette la tua salute e la forma fisica; se raggiunge lo zero, il tuo Eroe muore.  
 * **FORTUNA** indica la buona sorte dell’Eroe.
 
-# Competenze Specializzate 
+# Competenze Specializzate
 
 Le *Competenze Specializzate* rappresentano campi di competenza specifici degli Eroi. Puoi spendere un totale di Punti Specializzazione pari al punteggio totale di **ABILITÀ** a tuo piacimento. Nessuna *Competenza Specializzata* può superare il valore massimo di 4 punti in fase di creazione del personaggio. Alle *Competenze* *Specializzate* elencate nelle pagine seguenti puoi aggiungerne altre di tua invenzione e preferenza.
 
@@ -130,7 +130,7 @@ Le *Competenze Specializzate* rappresentano campi di competenza specifici degli 
 |  | **5** | **Sopravvivenza** | Sapersi orientare, adattarsi ad ambienti selvaggi o pericolosi, foraggiare cibo, trovare rifugi sicuri, evitare pericoli naturali e rintracciare creature o individui in natura |
 |  | **6** | **Sotterfugio** | Ingannare il prossimo, imbastire truffe, saper vivere nei bassifondi |
 
-# Magia 
+# Magia
 
 Un eroe che possiede almeno un punto nella Competenza Specializzata **Magia** può lanciare incantesimi e magie.
 
@@ -181,7 +181,7 @@ L’Eroe ha un totale di Punti Magia pari al punteggio della competenza *Magia* 
 | **65** | **Vincolo d'Anima (4):** Vincola temporaneamente l'anima di un individuo a un oggetto o a un luogo specifico. |
 | **66** | **Visione del Futuro (3):** Permette al lanciatore di vedere eventi futuri per una breve durata. |
 
-# Azioni 
+# Azioni
 
 In Heroic Havoc ci sono due modi possibili per determinare il successo di un'azione:
 
@@ -192,7 +192,7 @@ In entrambi i casi, lancia 2d6 e confronta il risultato con il punteggio rilevan
 
 Dopo aver effettuato una prova di FORTUNA, sottrai un punto dal tuo punteggio di FORTUNA, indipendentemente dall’esito. Se hai successo, sei *Fortunato*, altrimenti sei *Sfortunato*.
 
-# Combattimento 
+# Combattimento
 
 Il combattimento è un aspetto centrale del gioco. Ecco come funziona:
 
@@ -201,7 +201,7 @@ Il combattimento è un aspetto centrale del gioco. Ecco come funziona:
 3. Chi ha la Forza d'Attacco più alta ferisce l'altro, sottraendo alla TENACIA la differenza tra le due Forze d’Attacco.  
 4. Ogni round di questo processo costituisce un Round d'Attacco. Continua finché la TENACIA di qualcuno raggiunge lo zero, causando la morte.
 
-# Fuga 
+# Fuga
 
 Potresti avere l'opzione di fuggire da una battaglia se le cose si mettono male o sceglierla volontariamente. Tuttavia, la fuga comporta sempre una ferita automatica inflitta dal tuo avversario mentre scappi. Sottrai 2 punti di TENACIA dal tuo totale.
 
@@ -248,7 +248,7 @@ Per apprendere un nuovo incantesimo sono necessari:
 * Punti Magia spendibili. Questi possono essere avanzati dalla fase di creazione dell’Eroe, o in caso contrario sarà necessario un aumento del punteggio dell’abilità Magia (al costo di Punti Esperienza), per garantire Punti Magia aggiuntivi. **In questo caso non è necessario sottrarre punti dall’attributo ABILITÀ.**  
 * un numero di Punti Esperienza pari al costo dell'incantesimo.
 
-# Emporio 
+# Emporio
 
 Di seguito è riportato un prezzario per oggetti di uso comune, attrezzatura da spedizione, armi e armature per le tue avventure in *Heroic Havoc*.
 
@@ -277,18 +277,24 @@ Possedere o meno questi oggetti ha un effetto sulla tua abilità di interagire c
 
 | d6 | d6 | Oggetto | Prezzo |
 | :---: | :---: | :---: | :---: |
-| **1-3** | **1** | Tenda | 10 MO |
+| **1-2** | **1** | Tenda | 10 MO |
 |  | **2** | Sacca per Dormire | 5 MO |
 |  | **3** | Forbici per Tessuti | 5 MA |
 |  | **4** | Attrezzatura da Cucina | 2 MO |
 |  | **5** | Fune Resistente | 2 MO |
 |  | **6** | Acciarino | 1 MO |
-| **4-6** | **1** | Coltello da Campo | 4 MO |
+| **3-4** | **1** | Coltello da Campo | 4 MO |
 |  | **2** | Bussola | 10 MO |
 |  | **3** | Mulo | 25 MO |
-|  | **4** | Binocolo | 15 MO |
+|  | **4** | Cannochiale | 15 MO |
 |  | **5** | Cavallo | 50 MO |
 |  | **6** | Carrozza | 75 MO |
+| **5-6** | **1** | Zaino | 5 MO |
+|  | **2** | Lanterna a Olio | 10 MO |
+|  | **3** | Kit di Primo Soccorso	 | 8 MO |
+|  | **4** | Manto da viaggio | 7 MO |
+|  | **5** | Stivali da viaggio | 5 MO |
+|  | **6** | Pergamena | 3 MO |
 
 ## Armi
 
@@ -308,29 +314,39 @@ Considera le armi qui di seguito nei loro effetti sul mondo di gioco, non in ter
 |  | **4** | Arco Corto | 15 MO |
 |  | **5** | Fionda | 1 MO |
 |  | **6** | Martello da Guerra | 10 MO |
-| **5-6** | **1-3** | Spada Corta | 10 MO |
-|  | **4-6** | Pugnale | 5MO |
+| **5-6** | **1** | Spada Corta | 10 MO |
+|  | **2** | Pugnale | 5MO |
+|  | **3** | Accetta | 10 MO |
+|  | **4** | Tridente | 25 MO |
+|  | **5** | Daga | 2 MO |
+|  | **6** | Clava | 1 MO |
 
 ## Armature
 
 Le armature non hanno effetto sui tiri di dado, ma come qualsiasi altro oggetto possono essere rivendute come bottino e hanno effetto sulla mobilità dell'Eroe in casi particolari.
 
 | d6 | d6 | Armatura | Prezzo |
-| ----- | :---: | :---: | :---: |
-| **1-3** | **1** | Armatura di Cuoio | 10 MO |
+| :---: | :---: | :---: | :---: |
+| **1-2** | **1** | Armatura di Cuoio | 10 MO |
 |  | **2** | Armatura di Piastre | 50 MO |
 |  | **3** | Cotta di Maglia | 40 MO |
 |  | **4** | Corpetto Imbottito | 5 MO |
 |  | **5** | Scudo di Legno | 5 MO |
 |  | **6** | Elmo di Ferro | 12 MO |
-| **4-5** | **1** | Armatura di Pelle | 8 MO |
+| **3-4** | **1** | Armatura di Pelle | 8 MO |
 |  | **2** | Elmo di Acciaio | 20 MO |
 |  | **3** | Scudo di Acciaio | 15 MO |
 |  | **4** | Elmo d'Oro | 100 MO |
 |  | **5** | Armatura di Drago | 200 MO |
 |  | **6** | Elmo dei Re | 250 MO |
+| **5-6** | **1** | Armatura di Valyrium | 150 MO |
+|  | **2** | Armatura Incantata | 120 MO |
+|  | **3** | Scudo di Drago | 220 MO |
+|  | **4** | Armatura di Cristallo | 130 MO |
+|  | **5** | Armatura del Mago | 140 MO |
+|  | **6** | Elmo Imbottito | 150 MO |
 
-# Avventurarsi 
+# Avventurarsi
 
 Se utilizzi Heroic Havoc per giocare in solitario, puoi seguire la seguente procedura per muovere verso la tua avventura:
 
@@ -458,30 +474,30 @@ Ricordati di porre anche un dado di valore 1 al centro della mappa per rappresen
 
 | d6 | Tipologia Luogo | Punto di Riferimento | Risorse Principali | Rischio | Evento |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1** | Piazza o Mercato | Fontana monumentale | Spezie rare, Cibo locale | Basso | Incontro |
-| **2** | Locanda o Taverna | Casa abbandonata | Informazioni, Alloggio | Basso | Riposo |
-| **3** | Bottega o Fabbro | Laboratorio | Attrezzature, Armi | Medio | Scadenza Effetto |
-| **4** | Tempio o Santuario | Altare | Oggetti benedetti | Medio | Cambio Condizioni |
-| **5** | Caserma o Guardia | Torre di Guardia | Protezione, Sicurezza | Elevato | Indizio |
-| **6** | Biblioteca o Archivio | Biblioteca antica | Conoscenze perdute | Elevato | Esplorazione Libera |
+| **1** | Piazza o Mercato | Torre dell'orologio | Spezie rare, Cibo locale | Basso | Incontro |
+| **2** | Locanda o Taverna | Giardino nascosto | Informazioni, Alloggio | Basso | Riposo |
+| **3** | Bottega o Fabbro | Statua dimenticata | Attrezzature, Armi | Medio | Scadenza Effetto |
+| **4** | Tempio o Santuario | Antico ponte | Oggetti benedetti | Medio | Cambio Condizioni |
+| **5** | Caserma o Guardia | Antiche catacombe | Protezione, Sicurezza | Elevato | Indizio |
+| **6** | Biblioteca o Archivio | Vecchio mulino | Conoscenze perdute | Elevato | Esplorazione Libera |
 
 | Tipologia Luogo | 1 | 2 | 3 | 4 | 5 | 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Piazza o Mercato** | Bancarelle di cibo | Mercato di bestiame | Bazar delle spezie | Vendita di armi | Mercato degli schiavi | Festa popolare |
-| **Locanda o Taverna** | Taverna fumosa | Locanda di lusso | Rifugio di viaggiatori | Taverna clandestina | Birreria locale | Locanda malfamata |
-| **Bottega o Fabbro** | Laboratorio d'alchimista | Forgia di fabbro | Emporio di maghi | Armeria | Bottega di cacciatori | Bottega d'antiquariato |
+| **Locanda o Taverna** | Taverna fumosa | Locanda di lusso | Rifugio per i viaggiatori | Taverna clandestina | Birreria locale | Locanda malfamata |
+| **Bottega o Fabbro** | Laboratorio d'alchimia | Forgia | Emporio di magia | Armeria | Bottega di cacciatori | Bottega d'antiquariato |
 | **Tempio o Santuario** | Tempio principale | Cappella abbandonata | Santuario nascosto | Altare pubblico | Cripta sacra | Piccolo oratorio |
 | **Caserma o Guardia** | Caserma cittadina | Torre di guardia | Posto di blocco | Sala delle armi | Sala d’addestramento | Sala degli interrogatori |
 | **Biblioteca o Archivio** | Archivio polveroso | Biblioteca storica | Scriptorium | Archivio segreto | Sala delle mappe | Biblioteca privata |
 
 | Punto di Riferimento | 1 | 2 | 3 | 4 | 5 | 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Fontana monumentale** | Fontana dei leoni | Fontana delle ninfe | Fontana con statue d'eroi | Fontana sacra | Fontana in rovina | Fontana magica |
-| **Casa abbandonata** | Baracca diroccata | Villa nobiliare crollata | Casa infestata | Capanna di un eremita | Fienile abbandonato | Rifugio di banditi |
-| **Laboratorio** | Laboratorio alchemico | Officina meccanica | Fucina di rune | Sala di esperimenti arcani | Fucina di golem | Laboratorio di dissezione |
-| **Altare** | Altare di sacrificio | Altare votivo | Altare consacrato | Altare profanato | Altare di guarigione | Altare segreto |
-| **Torre di Guardia** | Torre di segnalazione | Torre d'assedio | Vedetta su una collina | Torre circondata da mura | Torre di avvistamento | Torre fortificata |
-| **Biblioteca antica** | Sala delle cronache | Biblioteca sotterranea | Sala delle pergamene | Biblioteca su pergamena | Archivio delle profezie | Biblioteca arcana |
+| **Torre dell'orologio** | Con quadrante dorato | Con rintocchi cupi | Danneggiata dal tempo | Con meccanismo magico | Di costruzione recente | Costruita su rovine antiche |
+| **Giardino nascosto** | Con labirinto | Pieno di statue | Con piante esotiche | Abbandonato | Con fontana segreta | Con pergolato fiorito |
+| **Statua dimenticata** | Erosa dal vento | Di un eroe antico | Di una figura oscura | Con iscrizioni indecifrabili | Senza testa | Venerata dai locali |
+| **Antico ponte** | Ponte di pietra | Ponte sospeso | Ponte coperto | Ponte decorato con gargoyle | Ponte ricoperto di muschio | Ponte con passaggio nascosto |
+| **Antiche catacombe** | Catacombe infestate | Catacombe con passaggi segreti | Catacombe in rovina | Catacombe sacre | Catacombe con trappole | Catacombe proibite |
+| **Vecchio mulino** | Mulino diroccato | Mulino funzionante | Mulino trasformato in abitazione | Mulino infestato | Mulino con meccanismi arcani | Mulino con deposito segreto |
 
 | Evento | 1 | 2 | 3 | 4 | 5 | 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -555,12 +571,12 @@ Le ispirazioni sono usate per suggerire una scoperta, un evento, un obiettivo de
 
 | d66 | 1 | 2 | 3 | 4 | 5 | 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1** | Avventura | Scelta | Conflitto | Tradi- mento | Onore | Benedizione |
+| **1** | Avventura | Scelta | Conflitto | Tradimento | Onore | Benedizione |
 | **2** | Magia | Ribellione | Amicizia | Salvataggio | Potere | Maledizione |
-| **3** | Mistero | Magia | Sopravvivenza | Scoperta | Fede | Redenzione |
+| **3** | Mistero | Profezia | Sopravvivenza | Scoperta | Fede | Redenzione |
 | **4** | Combatti-mento | Segreto | Tesoro | Morte | Rivelazione | Coraggio |
 | **5** | Esplorazione | Inganno | Ricerca | Vendetta | Incantesimo | Destino |
-| **6** | Incontro | Missione | Magia | Libertà | Oscurità | Tradizione |
+| **6** | Incontro | Missione | Sacrificio | Libertà | Oscurità | Tradizione |
 
 ## Argomenti di conversazione con i PNG
 
@@ -623,7 +639,7 @@ La scintilla così tirata va interpretata a livello intuitivo rispetto al contes
 | **2** | Mazza | Slitta | Giara | Balestra | Chiodo | Talismano |
 | **3** | Stella | Nero | Onda | Fionda | Olio | Borsa |
 | **4** | Vite | Falco | Albero | Mura | Cencio | Legno |
-| **5** | Sacco | Torre | Buio | Pantalo- ne | Polvere | Stendardo |
+| **5** | Sacco | Torre | Buio | Pantalone | Polvere | Stendardo |
 | **6** | Coperta | Cono | Noce | Ossa | Tunica | Inchiostro |
 
 ### **Tabella 4**
@@ -633,7 +649,7 @@ La scintilla così tirata va interpretata a livello intuitivo rispetto al contes
 | **1** | Cappello  | Bottiglia | Vino | Cavallo | Deserto | Barba- gianni |
 | **2** | Corda | Erba | Mantello | Luna | Fuoco | Gufo |
 | **3** | Giaciglio | Panca | Boccetta | Piuma | Pietra | Tempesta |
-| **4** | Globo | Statua | Calamaio | Abitazio- ne | Bicchiere | Drago |
+| **4** | Globo | Statua | Calamaio | Abitazione | Bicchiere | Drago |
 | **5** | Libro | Collana | Serratura | Onda | Trappola | Bandito |
 | **6** | Ruota | Taverna | Sfera | Orso | Pugnale da lancio | Cane |
 
@@ -699,7 +715,7 @@ I nemici controllano il morale quando si dimezza la TENACIA o il loro numero.
 | 4-5 | Ritirata Cauta |
 | 6 | Rinnovato vigore, riacquista 1d6 TENACIA. |
 
-# Tesori {#tesori}
+# Tesori
 
 Per determinare la consistenza di un tesoro, tira 1d6 sulla tabella seguente e consulta la colonna corrispondente al punteggio di TENACIA della creatura a sua guardia.
 
@@ -727,7 +743,7 @@ Quando richiesto dalla tabella dei tesori tira 2d6 sulla tabella sottostante per
 | **8** | **Pozione Curativa** (come incantesimo Tocco Curativo) |
 | **9** | **Pozione della Fortuna** (ripristina la FORTUNA e la aumenta di 1\) |
 | **10** | **Pergamena magica** (contiene un incantesimo casuale) |
-| **11** | **Occhio di Drago** (scurovisione fino a 30 m) |
+| **11** | **Occhio di Drago** (ottieni scurovisione fino a 30 m) |
 | **12** | **Arma incantata** ( \+2 ABILITÀ) |
 
 # Creature
@@ -1216,7 +1232,7 @@ Creatura umanoide con corpo di serpente e magia arcana.
 * **ABILITÀ** 6  
 * **TENACIA** 14  
 * **ATTACCA** 1  
-* **Competenze Specializzate:** Magia Arcana (3), Sguardo Ipotizzante (2)
+* **Competenze Specializzate:** Magia Arcana (3), Sguardo Ipnotizzante(2)
 
 ### **Ogre**
 
@@ -1609,7 +1625,7 @@ Creatura simile a un uomo delle nevi, con forza sovrumana.
 | **5** | Insetto | 3 | Insetto | Coda | Zanne |
 | **6** | Rettile | 1d6 | Rettile | Tentacoli | Veleno |
 
-| d6 | Abilità | Tenacia | Attacchi | Val. Comp. 1 | Val. Comp. 2 |
+| d6 | Abilità | Tenacia | Attacca | Val. Comp. 1 | Val. Comp. 2 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | **1** | 7 | 16 | 1 | 1 | 1 |
 | **2** | 8 | 17 | 1 | 2 | 2 |
@@ -1625,10 +1641,10 @@ Se vuoi interpretare le creature del bestiario o descriverne altre in aggiunta ,
 **\[Nome Creatura\]**  
 \[Breve descrizione di 10 o 15 parole\]
 
-* **ABILITÀ** \[valori tra 4 e 12\)  
+* **ABILITÀ** \[valori tra 4 e 12\]  
 * **TENACIA** \[valori tra 6 e 24\]  
 * **ATTACCA** \[numero di avversari che può attaccare contemporaneamente da 1 a 4\]  
-* **Competenze Specializzate** \[due tre parole, valori da 1 a 4\]
+* **Competenze Specializzate** \[due/tre parole, valori da 1 a 4\]
 
 # Licenza
 
@@ -1763,7 +1779,7 @@ L’attributo FORTUNA deve essere inteso come una riserva a cui attingere nel co
 
 ***Esempio:** una creatura con “ATTACCA: 2” è in grado di colpire con un singolo attacco 2 avversari contemporaneamente (può succedere se il vostro eroe ha un gregario al suo seguito\!). Se la stessa creatura stesse attaccando solo 1 eroe, effettuerà sempre 1 singolo attacco in caso di successo.*
 
-# Appendice C:  L’ecosistema aperto di Heroic Havoc {#appendice-c:-l’ecosistema-aperto-di-heroic-havoc}
+# Appendice C:  L’ecosistema aperto di Heroic Havoc
 
 Fin dalla sua ideazione, *Heroic Havoc* si è posto l'obiettivo di creare non solo un gioco di ruolo, ma un vero e proprio ecosistema collaborativo.
 
@@ -1791,7 +1807,7 @@ Infine, per consentire tutto questo, *Heroic Havoc* è pubblicato sotto licenza 
 
 Questa "apertura" giuridica è una condizione essenziale per far decollare la creatività della comunità e far fiorire un autentico ecosistema narrativo collaborativo\!
 
-# Appendice D: Registro delle Modifiche 
+# Appendice D: Registro delle Modifiche
 
 **V 1.6:** Aggiunte le tabelle di specificazione dei risultati di Esplorazione.   
 Aggiunte le procedure e le tabelle della sezione “Vivere negli insediamenti”.   
@@ -1824,9 +1840,3 @@ Unisciti al gruppo **Ruolatori Solitari**\!
 [t.me/ruolatorisolitari](http://t.me/ruolatorisolitari)
 
 Visita anche il portale [ruolatorisolitari.it](http://ruolatorisolitari.it) dove potrai trovare articoli di approfondimento e una lista di risorse per iniziare le tue partite\!
-
-# 
-
-[image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHwAAAArCAYAAAC6lezxAAAITklEQVR4Xu2bW0wVVxSGvcYLmICK1BAEFQyKDYokbbFNSBCslAaIxjSWRm0VCpjWG1UjVkM10RoEtbUg2qKAoq1tvSTGROPlwUR98sFoNNGoD8YHX7zEu9Os6exx7bX2zJy5aYLnT76Es9fa/1oz+3DmzOX06PG/tCjvBLq0jHEZ2v5Df0bpxsAai0VnwSjdk3d+wXd2/K4trF2kTZk6RVvx4wqt8689LCcM1m1cp00rnqZ98+08rem3zSweFoEt+PZdrdqgQYPo8UJnwIAB2ryq+WzO2wJ2MO1RReeBYBef+quY/MlkNi9IjDreFjx1VCprOBLgDUC93gQf5H6o7KWsrExrbm7Wpk6dqvXs2ZPlVH9fw7zcQP2ACRMmaI2NjVpVVZU2cuRIFgeoTxAY3u7M9x3cz5rzwpaWrcw7LOBjG9c+cuSIZqcHDx5I+UnJSczTiZa27ZLHypUraRkmnN+7d2/m6RfDO/IFX79pg9SUICYmhvYuCTaWzgFSUlNYjaCpX/+TWW/w4MG0NVvhXtu6djFvO/DcFy9eUGtLnTt3zpwHnzjU1w+Gb2QLDscXvBFAdXU17ddWJ06cYB5hvJMF+NNo9uzZtB1dIj5w4EAa0jV27Fgzh/pbgQ8NXvTy5UtzfpCnzIan84YsWrZYWiTYID+6d++e5BdJD14Q3n379qUtmMI9WKmuri7iPkenjbb1mzlzJtv2VatW0TTt0qVLZryufhWr4wXDz34j9vy9V2pu4sSJtDdPOnnypOT7WUkxq+0HOO4KbztlZmbqOQ0NDTQkSXiVz/mK1cLY1cTbSxk6dChN1z/9RJzW8YLhZW+Gm7L62POqpqYmyZ/W9oPwrKyspGU9afjw4Y59lkwvNXOo8HZaMW7cODrNsaYbDC9rs4RhCVJDYSg1NVWqQXvwilPPuCbG6nCFj6u0Fq0Jbw4qXIMqkhit5QXDS222958u20aCFK5Ts7CG9eIFp75xTYqVRLxxWxOrZ1Xz6dOn2unTp83YggUL9DEqq/qbNm3Sx4o+L2L13GL4qxecXoQIU69evZJq0V684NQ3rkexkojPnT+X1bOruXr1ajMGf6tkVf/ixYv6mJdrARTDX72DcQP379+XmhCCq1MiJy4ujoZ1nTlzRvLq6OigKbpwDu3FLT83bdR9MjIyaBlTuB7FSiL+0ce5rCZgNx/GrRYbZFdfjNN6bjF81EZ2DTx+/FiKU4TouCpHlTvjixmsH7dY1RGi/dj1JiTiS1fUsnqR1LSTVf2DBw/qY1kTs1g9txj+9gs+ZMgQqQEQbu769ev6GP5vv3XrlpQjTjkePXpkjsFxDWvx4tfn+onvJbJ+3CK87HT06FGpTyeJvF1du1k9XPP27dvSvAsXLpgx1VnD3r2vT30TExOlWEFBgT7+5ZxyVs8tRg37BS8vL5caePbsmRkrLS2VYpcvXzb/FjkAFmy8SnTn037coqpNRWva6eHDh469iXi/fv3odNs6kcRoLS8YXtys+Y8Ws1B7e7vUAL7qBItvJbuNUOn58+fSHNqTW4QP3JmykpsF79Onj2NvlTWVll64DjBr1iwtOTlZGlNdfHGq6QbDi5ttbt5iFjpw4IDUwJIlS8wYfLu2Et6QSIXn0J7c0tq+w/SCS7kquVnwSPsSeXDLlQrXokAvVCLWq1cvVscLhp96I0SxiooKqYmbN2+asaVLl0ox/A0cb0wkOnv2rDSH9uMFpx4iXXARj2THw/Fd5MN3Fio47MF9eJEzfvx45T8O1ApyXwCGn9pQFEtJSaG9SDsJrkCB8Bvh/PnzUk5JSQmb29LSYo6B1q5da8bi4uNYP14RnrGxsVI9UCQLjuPU24rR6WnmnCdPnlBLRx0/ftycP7fia+bvFcNTvSFudgQmPT3dMUfliWNBXW0TYO/6+npaWqnCwkJpHvV0wml7VaIPXsChlfr6wfBVb4xTs/jbuuDKlSs0je244uJimqIL59BegoD22tbWRlvQhb+U+u0neYT8pSw7O5uW03X37l1WE+7lUz+/GN7qDcLF4XgStoLYwU7Ex8ezHWtH5vvjmYdbGrY2MF8n4D4G9QkCw1+9g+kzWWEKf0HJy89jvQRNcsoItpMx/fv3Z3P8kp2TzepQfmn9lc0LEqOOesEBeFJENGN129Cv4HwUbzTtIUpwOC44StKZNGkSXS9foqdi7fs7WP0owRHRgm/b+Zu0KLW1tXTdPOnatWuSL3zBobWjBIu54CpwoupZdD/Kz89nfrgeHMdpPEpgsAGdrn/3SYswcvQoltPZ2UnX0lb44gzG4p0YJRzYgAldiEU/yL/gEMC5tp2OHTvG5gDwSC+tQXOiBA4bkKALAr+wpDleWFa3jHnjs4IwgKdyBHRclUvHvJKWlqZfOobLuzSm6idk2ACDLgyAb6G6weqhepoXBqBTp07pCMH49OnTzb9F3qFDh9h8L4Dg5khRUZFUE0hKSmJjbwA2oIQuEAYezqf5mDEZY9gcDH7gPkzwjs3JyZFeg27cuKEtX7480AUAiadW4Llz/Cw+Fp0XImzAktbdO9hi+YH+qiVsqPDPfvD9aPwoll+wDh8+zGK5ubna1atX9dumdG5IsAFbgvrxX0xsDPMOG1BeXp7OnTt39Nc0TseCAO5/Y8HYmjVrpFr475BhAxFT8GkBW0g7ymaUMY83Cd2pILhdil/THD+IB0DxGGjYsGFmLSw4nFCPEGADnoBnvvIL87X51RXahsYNWtV3VVrhtEJtwMDXT3e8bVRSxek8P6gkxlV5dH4IsIFuC/wwQUBjOE7H/ZKVlaU/4wb3w+E1nH7SOgkJCWwsJNhAlO4NG4jSjfkPzqB4lCHtpDQAAAAASUVORK5CYII=>
-
-[image2]: <data:image/png;base64,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>
